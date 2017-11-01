@@ -1,5 +1,5 @@
 asfSDBADJ
 bödfnönj
 dlkfhshö
-![leon](/test/leon.jpng?raw=true "Logo")
+![leon](/test/leon.jpeg?raw=true "Logo")
 
